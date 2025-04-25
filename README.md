@@ -20,7 +20,7 @@ Merhaba, ben **Zehra İkbal Öztürk**. 2025 yılında **Manisa Celal Bayar Üni
   Backend süreçlerine doğrudan katkı, veri tabanı ve .NET geliştirme
 
 - 🖥️ **Mühendislik Stajyeri** – GDZ Elektrik Dağıtım A.Ş. (2023)  
-  Teknik problem çözümü, altyapı analizi ve raporlama süreçleri
+  Teknik problem çözümü, altyapı analizi ve raporlama süreçleri, Rota Optimizasyonu
 
 - 🧠 **Donanım Stajyeri** – Tınaztepe Sağlık Grubu (2024)  
   Hastane içerisinde help desk sistemi ile donanımsal sıkıntıların giderilmesi
@@ -42,11 +42,11 @@ Merhaba, ben **Zehra İkbal Öztürk**. 2025 yılında **Manisa Celal Bayar Üni
 
 ```yaml
 🖥️ Programlama Dilleri:
-  - Python (OOP), Java, C#, JavaScript, Kotlin
+  - Python (OOP), Java, C#, HTML, CSS, JavaScript, Kotlin
 
 🛠️ Teknolojiler & Araçlar:
-  - React, .NET Core, Firebase, PostgreSQL, MSSQL, Streamlit, Git
+  - React, .NET Core, Firebase, PostgreSQL, MSSQL, Git
 
 📱 Ek Yetkinlikler:
-  - Active Directory, Donanım Tanımlama, Takım Liderliği, UI/UX Duyarlılığı
+  - Active Directory, Donanım Tanımlama, Takım Liderliği
 
