@@ -22,16 +22,18 @@ Merhaba, ben **Zehra İkbal Öztürk**. 2025 yılında **Manisa Celal Bayar Üni
 - 🖥️ **Mühendislik Stajyeri** – GDZ Elektrik Dağıtım A.Ş. (2023)  
   Teknik problem çözümü, altyapı analizi ve raporlama süreçleri
 
-- 🧠 **ARGE Proje Katılımcısı** – Tınaztepe Sağlık Grubu (2024)  
-  Artırılmış Gerçeklik projesi fikir geliştirme ve rota optimizasyonu yazılımı
+- 🧠 **Donanım Stajyeri** – Tınaztepe Sağlık Grubu (2024)  
+  Hastane içerisinde help desk sistemi ile donanımsal sıkıntıların giderilmesi
 
 ---
 
 ### 🚀 Proje ve Katılımlar
 
-- 📦 **Zimmet & QR Takip Sistemi** – PyQt6 / MSSQL / Firebase
+- 📦 **Envanter Takip Sistemi Dashboard** – React
 - 🛒 **Atakent Yapı Web Sitesi** – HTML, CSS, Bootstrap 5, Firebase Auth, Firestore
-- 🔐 **Phishing Simülasyonu** – Render tabanlı saldırı farkındalık projesi
+- 🔐 **Bayar Tour** – Frontend: React
+                       Backend: Node.js
+                       Veritabanı:PostgreSQL
 - 🎯 **MSound Force / Teknofest Takımı** – Takım Kaptanı (2023–2024)
 
 ---
